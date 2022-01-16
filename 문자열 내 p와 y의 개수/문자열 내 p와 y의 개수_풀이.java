@@ -4,7 +4,7 @@ class Solution {
         int p = 0;
         int y = 0;
         
-        //Stringìœ¼ë¡œ ì €ìž¥ëœ ë¬¸ìžì—´ ì¤‘ì—ì„œ í•œ ê¸€ìžë§Œ ì„ íƒí•´ì„œ charíƒ€ìž…ìœ¼ë¡œ ë³€í™˜í•´ì£¼ëŠ” ë©”ì†Œë“œ
+        //StringÀ¸·Î ÀúÀåµÈ ¹®ÀÚ¿­ Áß¿¡¼­ ÇÑ ±ÛÀÚ¸¸ ¼±ÅÃÇØ¼­ charÅ¸ÀÔÀ¸·Î º¯È¯ÇØÁÖ´Â ¸Þ¼Òµå
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == 'p' || s.charAt(i) == 'P'){  
                 p++;
